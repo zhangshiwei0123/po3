@@ -1,0 +1,5 @@
+{
+  "scripts/test_sms.py::TestSms::()::test_send_sms[1]": true,
+  "scripts/test_sms.py::TestSms::()::test_send_sms[2]": true,
+  "scripts/test_sms.py::TestSms::()::test_send_sms[3]": true
+}
